@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: cd8fbd3fb62ba43e3a48552c7d05eb6f
+timeCreated: 1506010769
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+  - material: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
