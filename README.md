@@ -5,3 +5,5 @@
 This is a *very* important **Class project**
 
 ---
+
+This is the **feature 1** branch. I have added feature 1.
